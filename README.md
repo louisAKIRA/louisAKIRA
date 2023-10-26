@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-ชื่อ: อิทธิพล ชัยวร ตำแหน่ง: Frontend Developer 
+ชื่อ: อิทธิพล ชัยวร ตำแหน่ง: Frontend Developer
+-------
 ประสบการณ์: 1 ปีในการพัฒนาเว็บ 
 ภาษาโปรแกรมมิง: HTML, CSS, JavaScript 
 ภาษาโปรแกรมมิงที่กำลังศึกษา: SQL, Python, Node.js 
