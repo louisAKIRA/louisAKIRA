@@ -5,7 +5,6 @@ Student
 -------
 
 ชื่อ: อิทธิพล ชัยวร ตำแหน่ง: Frontend Developer
--------
 ประสบการณ์: 1 ปีในการพัฒนาเว็บ 
 ภาษาโปรแกรมมิง: HTML, CSS, JavaScript 
 ภาษาโปรแกรมมิงที่กำลังศึกษา: SQL, Python, Node.js 
